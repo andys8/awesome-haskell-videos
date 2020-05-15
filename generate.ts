@@ -116,7 +116,7 @@ const renderHtml = (videos: Video[] = []) => {
         div(
           "video",
           [
-            headline("2", link(linkUrl, title)),
+            headline("3", link(linkUrl, title)),
             div(
               "clearfix",
               [
