@@ -9,9 +9,9 @@ The part of the [awesome](https://github.com/sindresorhus/awesome) projects line
 
 ## Related
 
-- [awesome-haskell](https://github.com/krispo/awesome-haskell) - Awesome Haskell list
-- [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Haskell must watch video list
-- [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Awesome Functional Programming
+- [awesome-haskell](https://github.com/krispo/awesome-haskell) - Awesome Haskell list.
+- [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Haskell must watch video list.
+- [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Awesome Functional Programming.
 
 ## License
 
