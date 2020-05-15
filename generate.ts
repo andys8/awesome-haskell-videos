@@ -95,7 +95,7 @@ const cutText = (max: number, text: string = "") =>
 const renderHtml = (videos: Video[] = []) => {
   type HL = "1" | "2" | "3" | "4";
   const headline = (i: HL, text: string) => `<h${i}>${text}</h${i}>`;
-  const link = (url: string, text: string) => `<a href="${url}">${text}</a>`;
+  const link = (url: string, text: string) => `<a href="${url}" target="_blank">${text}</a>`;
   const img = (src: string) => `<img class="float-left thumb" src="${src}"/>`;
   const div = (cl: string, text: string) => `<div class="${cl}">${text}</div>`;
   const p = (text: string) => `<p>${text}</p>`;
