@@ -3,12 +3,16 @@ const youtubeDataFile = "data/youtube.txt";
 const youtubeApi = "https://www.googleapis.com/youtube/v3/videos";
 const youtubeParts = ["snippet", "contentDetails", "statistics"];
 
+const templatePlaceHolder = "%%%video-placeholder%%%";
+const markdownOutputTemplate = "README.template.md";
+const markdownOutputFile = "README.md";
+
 if (!youtubeKey) {
   throw Error("YouTube API key has to be passed as argument");
 }
 
-const readYouTubeIds = (): string[] =>
-  Deno.readTextFileSync(youtubeDataFile).split("\n");
+const readYouTubeIds = (): Promise<string[]> =>
+  Deno.readTextFile(youtubeDataFile).then((x) => x.split("\n"));
 
 const requestVideoData = async (videoIds: string[] = []) => {
   const idsStr = videoIds.join(",");
@@ -64,5 +68,11 @@ const toVideoData = (resp: YoutubeResponse): Video[] => {
 const renderMarkdown = (videos: Video[] = []) =>
   videos.map(({ title, linkUrl }) => `- [${title}](${linkUrl})`).join("\n");
 
-const response = await requestVideoData(readYouTubeIds());
-console.log(renderMarkdown(toVideoData(response)));
+const writeReadme = async (content: string) => {
+  const template = await Deno.readTextFile(markdownOutputTemplate);
+  const output = template.replace(templatePlaceHolder, content);
+  await Deno.writeTextFile(markdownOutputFile, output);
+};
+
+const response = await requestVideoData(await readYouTubeIds());
+writeReadme(renderMarkdown(toVideoData(response)));
