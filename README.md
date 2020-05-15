@@ -12,6 +12,15 @@
 - [Type Inference from Scratch: A Workshop with Christoph Hegemann](https://youtu.be/frM7GhBERAs)
 - [World-Building in Haskell with Tom Harding](https://youtu.be/nkIMTc1wPaI)
 - [Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman](https://youtu.be/LEdEOlLlMfM)
+- [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://youtu.be/idU7GdlfP9Q)
+- [MuniHac 2019: Making a Haskell IDE](https://youtu.be/cijsaeWNf2E)
+- [Brave New World: Tales of PureScript and Haskell in Production](https://youtu.be/2SAQNO46V3U)
+- [Building Terminal User Interfaces with Haskell](https://youtu.be/qbDQdXfcaO8)
+- [HackerRank in Haskell -- HaskellRank #01](https://youtu.be/h_D4P-KRNKs)
+- [Data61 fp-course - Part #1: syntax, Optional, List](https://youtu.be/NzIZzvbplSM)
+- [Haskell for JavaScript programmers](https://youtu.be/pUN3algpvMs)
+- [Scripting in Haskell](https://youtu.be/UVek-DEc_pQ)
+- [Lenses, Folds, and Traversals](https://youtu.be/cefnmjtAolY)
 
 ## Related
 
