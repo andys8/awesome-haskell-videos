@@ -1,0 +1,32 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.0.0
+        with:
+          ref: master
+      - uses: denolib/setup-deno@master
+        with:
+          deno-version: 1.0.0
+      - name: Generate website and README
+        run: |
+          deno --version
+          deno run --allow-read --allow-net --allow-write generate.ts ${{ secrets.YOUTUBE_API_KEY }}
+      - name: push
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: "master"
+          commit-message: "publish"
+          force-add: "true"
+          files: README.md docs/index.html
+          name: andys8
+          email: andys8@users.noreply.github.com
