@@ -9,6 +9,7 @@
 
 ## Videos
 
+<!--lint disable awesome-spell-check-->
 - [Type Inference from Scratch: A Workshop with Christoph Hegemann](https://youtu.be/frM7GhBERAs)
 - [World-Building in Haskell with Tom Harding](https://youtu.be/nkIMTc1wPaI)
 - [Haskell in the City](https://youtu.be/geiTNX7AYfI)
@@ -37,7 +38,9 @@
 ## Contribute
 
 - To add a video add the youtube id to [`data/youtube.txt`](./data/youtube.txt)
-- Run `deno run --allow-read --allow-net --allow-write generate.ts <youtube-api-key>`
+- Output can be seen with `deno run --allow-read --allow-net --allow-write generate.ts <youtube-api-key>`
+- Run `npx awesome-lint`
+- CI will update README.md and website automatically running `generate.ts`
 
 ## License
 
