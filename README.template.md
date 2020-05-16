@@ -1,4 +1,4 @@
-# Awesome Haskell Videos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [Awesome Haskell Videos](https://andys8.github.io/awesome-haskell-videos) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collection of awesome Haskell videos
 
