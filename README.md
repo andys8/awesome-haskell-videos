@@ -25,6 +25,8 @@
 - [Explaining the state monad](https://youtu.be/DaU6BAV7Z94)
 - [Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey](https://youtu.be/re96UgMk6GQ)
 - [Scripting in Haskell](https://youtu.be/UVek-DEc_pQ)
+- [Category Theory 1.1: Motivation and Philosophy](https://youtu.be/I8LbkfSSR58)
+- [Haskell-1-1](https://youtu.be/N6sOMGYsvFA)
 - [Functional programming design patterns by Scott Wlaschin](https://youtu.be/E8I19uA-wGY)
 - [Compose Conference - Robots on Haskell](https://youtu.be/2-JFkv9-JOQ)
 - [Lenses, Folds, and Traversals](https://youtu.be/cefnmjtAolY)
