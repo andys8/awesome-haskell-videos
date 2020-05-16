@@ -1,4 +1,4 @@
-name: publish
+name: Generate
 
 on:
   push:
@@ -25,7 +25,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: "master"
-          commit-message: "publish"
+          commit-message: "CI: Update README.md and website"
           force-add: "true"
           files: README.md docs/index.html
           name: andys8
