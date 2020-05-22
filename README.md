@@ -34,6 +34,7 @@
 - [Haskell-1-1](https://youtu.be/N6sOMGYsvFA)
 - [Functional programming design patterns by Scott Wlaschin](https://youtu.be/E8I19uA-wGY)
 - [Compose Conference - Robots on Haskell](https://youtu.be/2-JFkv9-JOQ)
+- [Sed implementation in Haskell - Episode 1](https://youtu.be/0I90MTip-OQ)
 - [Adventures in Haskell - Calculator episode 1](https://youtu.be/9AllRc64pVE)
 - [Lenses, Folds, and Traversals](https://youtu.be/cefnmjtAolY)
 - [Haskell Amuse-Bouche](https://youtu.be/b9FagOVqxmI)
