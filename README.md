@@ -14,6 +14,7 @@
 - [World-Building in Haskell with Tom Harding](https://youtu.be/nkIMTc1wPaI)
 - [Haskell in the City](https://youtu.be/geiTNX7AYfI)
 - [Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman](https://youtu.be/LEdEOlLlMfM)
+- [JSON Parser 100% From Scratch in Haskell (only 111 lines)](https://youtu.be/N9RUqGYuGfw)
 - [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://youtu.be/idU7GdlfP9Q)
 - [MuniHac 2019: Making a Haskell IDE](https://youtu.be/cijsaeWNf2E)
 - [Simon Peyton Jones how GHC type inference engine actually works](https://youtu.be/x3evzO8O9e8)
