@@ -35,6 +35,7 @@
 - [Functional programming design patterns by Scott Wlaschin](https://youtu.be/E8I19uA-wGY)
 - [Compose Conference - Robots on Haskell](https://youtu.be/2-JFkv9-JOQ)
 - [Lenses, Folds, and Traversals](https://youtu.be/cefnmjtAolY)
+- [Haskell Amuse-Bouche](https://youtu.be/b9FagOVqxmI)
 
 ## Related
 
