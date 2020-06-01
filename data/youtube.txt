@@ -1,29 +1,29 @@
--b-Oz6y-n_Y
-0I90MTip-OQ
-2-JFkv9-JOQ
-2SAQNO46V3U
-9AllRc64pVE
-DaU6BAV7Z94
-E8I19uA-wGY
-FYTZkE5BZ-0
-I8LbkfSSR58
-LEdEOlLlMfM
-N6sOMGYsvFA
-N9RUqGYuGfw
-NYjk1kaYIgk
-NzIZzvbplSM
-PA1Fc7DNKtA
-UVek-DEc_pQ
-Xfu-Mt4YDWQ
-b9FagOVqxmI
-cefnmjtAolY
-cijsaeWNf2E
-frM7GhBERAs
-geiTNX7AYfI
-h_D4P-KRNKs
-idU7GdlfP9Q
-nkIMTc1wPaI
-pUN3algpvMs
-qbDQdXfcaO8
-re96UgMk6GQ
-x3evzO8O9e8
+-b-Oz6y-n_Y # ZuriHac 2016: Spock - Powerful Elegant Web Applications
+0I90MTip-OQ # Sed implementation in Haskell - Episode 1
+2-JFkv9-JOQ # Compose Conference - Robots on Haskell
+2SAQNO46V3U # Brave New World: Tales of PureScript and Haskell in Production
+9AllRc64pVE # Adventures in Haskell - Calculator episode 1
+DaU6BAV7Z94 # Explaining the state monad
+E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
+FYTZkE5BZ-0 # Making Music with Haskell From Scratch
+I8LbkfSSR58 # Category Theory 1.1: Motivation and Philosophy
+LEdEOlLlMfM # Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman
+N6sOMGYsvFA # Haskell-1-1
+N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
+NYjk1kaYIgk # Inspection Testing by Joachim Breitner
+NzIZzvbplSM # Data61 fp-course - Part #1: syntax, Optional, List
+PA1Fc7DNKtA # Revisiting Combinators by Edward Kmett
+UVek-DEc_pQ # Scripting in Haskell
+Xfu-Mt4YDWQ # GTK+ Programming with Haskell
+b9FagOVqxmI # Haskell Amuse-Bouche
+cefnmjtAolY # Lenses, Folds, and Traversals
+cijsaeWNf2E # MuniHac 2019: Making a Haskell IDE
+frM7GhBERAs # Type Inference from Scratch: A Workshop with Christoph Hegemann
+geiTNX7AYfI # Haskell in the City
+h_D4P-KRNKs # HackerRank in Haskell -- HaskellRank #01
+idU7GdlfP9Q # Lambda World 2019 - Painless software development with Haskell - Paweł Szulc
+nkIMTc1wPaI # World-Building in Haskell with Tom Harding
+pUN3algpvMs # Haskell for JavaScript programmers
+qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
+re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
+x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
