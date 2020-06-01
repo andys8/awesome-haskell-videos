@@ -1,33 +1,3 @@
-const youtubeKey = Deno.args[0];
-const youtubeDataFile = "data/youtube.txt";
-const youtubeApi = "https://www.googleapis.com/youtube/v3/videos";
-const youtubeParts = ["snippet", "contentDetails", "statistics"];
-
-const markdownPlaceholder = "%%%video-placeholder%%%";
-const markdownOutputTemplate = "README.template.md";
-const markdownOutputFile = "README.md";
-
-const htmlPlaceholder = "<!-- %%%video-placeholder%%% -->";
-const htmlOutputTemplate = "website.template.html";
-const htmlOutputFile = "docs/index.html";
-
-if (!youtubeKey) {
-  throw Error("YouTube API key has to be passed as argument");
-}
-
-const readYouTubeIds = (): Promise<string[]> =>
-  Deno.readTextFile(youtubeDataFile).then((x) => x.split("\n"));
-
-const requestVideoData = async (videoIds: string[] = []) => {
-  const idsStr = videoIds.join(",");
-  const partsStr = youtubeParts.join(",");
-  const url_ = encodeURI(
-    `${youtubeApi}?part=${partsStr}&id=${idsStr}&key=${youtubeKey}`
-  );
-  const res = await fetch(url_);
-  return await res.json();
-};
-
 type YoutubeResponse = {
   items: Array<YoutubeVideo>;
 };
@@ -57,8 +27,47 @@ type Video = {
   likes: number;
 };
 
-const sortVideos = (videos: Video[] = []) =>
-  videos.sort((a, b) => +new Date(b.publishedAt) - +new Date(a.publishedAt));
+const youtubeKey = Deno.args[0];
+const youtubeDataFile = "data/youtube.txt";
+const youtubeApi = "https://www.googleapis.com/youtube/v3/videos";
+const youtubeParts = ["snippet", "contentDetails", "statistics"];
+
+const markdownPlaceholder = "%%%video-placeholder%%%";
+const markdownOutputTemplate = "README.template.md";
+const markdownOutputFile = "README.md";
+
+const htmlPlaceholder = "<!-- %%%video-placeholder%%% -->";
+const htmlOutputTemplate = "website.template.html";
+const htmlOutputFile = "docs/index.html";
+
+if (!youtubeKey) {
+  throw Error("YouTube API key has to be passed as argument");
+}
+
+const readYouTubeIds = (): Promise<string[]> =>
+  Deno.readTextFile(youtubeDataFile)
+    .then((file: string) => file.split("\n"))
+    .then((lines: string[]) => lines.map((line: string) => line.split(" ")[0]));
+
+const requestVideoData = async (videoIds: string[] = []) => {
+  const idsStr = videoIds.join(",");
+  const partsStr = youtubeParts.join(",");
+  const url_ = encodeURI(
+    `${youtubeApi}?part=${partsStr}&id=${idsStr}&key=${youtubeKey}`
+  );
+  const res = await fetch(url_);
+  return await res.json();
+};
+
+const toDataFileContent = (videos: Video[] = []): string =>
+  videos
+    .map(({ title, id }: Video) => `${id} # ${title}`)
+    .sort()
+    .join("\n");
+
+const writeYouTubeIds = async (content: string) => {
+  await Deno.writeTextFile(youtubeDataFile, content);
+};
 
 const comparePublished = (a: Video, b: Video) =>
   +new Date(b.publishedAt) - +new Date(a.publishedAt);
@@ -146,3 +155,6 @@ console.log("README updated");
 
 writeWebsite(renderHtml(videos));
 console.log("Website updated");
+
+writeYouTubeIds(toDataFileContent(videos));
+console.log("YouTube id list updated");
