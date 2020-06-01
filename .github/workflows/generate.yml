@@ -27,6 +27,6 @@ jobs:
           push-branch: "master"
           commit-message: "CI: Update README.md and website"
           force-add: "true"
-          files: README.md docs/index.html
+          files: README.md docs/index.html data/youtube.txt
           name: andys8
           email: andys8@users.noreply.github.com
