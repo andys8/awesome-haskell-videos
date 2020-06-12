@@ -17,6 +17,7 @@ UVek-DEc_pQ # Scripting in Haskell
 Vgu82wiiZ90 # Haskell for Imperative Programmers #1 - Basics
 Xfu-Mt4YDWQ # GTK+ Programming with Haskell
 b9FagOVqxmI # Haskell Amuse-Bouche
+bhhE2DxbrJM # Write a GHC extension in 30 minutes by Richard Eisenberg
 cefnmjtAolY # Lenses, Folds, and Traversals
 cijsaeWNf2E # MuniHac 2019: Making a Haskell IDE
 frM7GhBERAs # Type Inference from Scratch: A Workshop with Christoph Hegemann
@@ -29,4 +30,3 @@ qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
 re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
-bhhE2DxbrJM

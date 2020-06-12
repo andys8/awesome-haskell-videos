@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [Write a GHC extension in 30 minutes by Richard Eisenberg](https://youtu.be/bhhE2DxbrJM)
 - [Making Music with Haskell From Scratch](https://youtu.be/FYTZkE5BZ-0)
 - [Type Inference from Scratch: A Workshop with Christoph Hegemann](https://youtu.be/frM7GhBERAs)
 - [World-Building in Haskell with Tom Harding](https://youtu.be/nkIMTc1wPaI)
