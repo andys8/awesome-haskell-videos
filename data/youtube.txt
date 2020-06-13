@@ -13,6 +13,7 @@ N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
 NYjk1kaYIgk # Inspection Testing by Joachim Breitner
 NzIZzvbplSM # Data61 fp-course - Part #1: syntax, Optional, List
 PA1Fc7DNKtA # Revisiting Combinators by Edward Kmett
+Q3qjTVcU9cg # Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020
 UVek-DEc_pQ # Scripting in Haskell
 Vgu82wiiZ90 # Haskell for Imperative Programmers #1 - Basics
 Xfu-Mt4YDWQ # GTK+ Programming with Haskell
@@ -30,4 +31,3 @@ qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
 re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
-Q3qjTVcU9cg # Twitter clone
