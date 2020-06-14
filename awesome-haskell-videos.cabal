@@ -1,0 +1,32 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.34.1.
+--
+-- see: https://github.com/sol/hpack
+
+name:           awesome-haskell-videos
+version:        0.1.0
+synopsis:       Generate awesome haskell videos list
+description:    See README at <https://github.com/andys8/awesome-haskell-videos#readme>
+category:       Development
+homepage:       https://github.com/andys8/awesome-haskell-videos#readme
+bug-reports:    https://github.com/andys8/awesome-haskell-videos/issues
+maintainer:     andys8@users.noreply.github.com
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
+
+source-repository head
+  type: git
+  location: https://github.com/andys8/awesome-haskell-videos
+
+executable awesome-haskell-videos
+  main-is: generate.hs
+  other-modules:
+      Paths_awesome_haskell_videos
+  ghc-options: -Wall
+  build-depends:
+      base >=4.9 && <5
+    , bytestring
+    , http-conduit
+  default-language: Haskell2010
