@@ -27,7 +27,6 @@ type Video = {
   likes: number;
 };
 
-const youtubeKey = Deno.args[0];
 const youtubeDataFile = "data/youtube.txt";
 const youtubeApi = "https://www.googleapis.com/youtube/v3/videos";
 const youtubeParts = ["snippet", "contentDetails", "statistics"];
@@ -45,7 +44,10 @@ const readYouTubeIds = (): Promise<string[]> =>
     .then((file: string) => file.split("\n"))
     .then((lines: string[]) => lines.map((line: string) => line.split(" ")[0]));
 
-const requestVideoData = async (videoIds: string[] = []) => {
+const requestVideoData = async (
+  youtubeKey: string,
+  videoIds: string[] = []
+) => {
   const idsStr = videoIds.join(",");
   const partsStr = youtubeParts.join(",");
   const url_ = encodeURI(
@@ -144,11 +146,13 @@ const writeWebsite = async (content: string) => {
 };
 
 const main = async () => {
+  const youtubeKey = Deno.args[0];
   if (!youtubeKey) {
-    throw Error("YouTube API key has to be passed as argument");
+    console.error("YouTube API key has to be passed as argument");
+    return;
   }
 
-  const response = await requestVideoData(await readYouTubeIds());
+  const response = await requestVideoData(youtubeKey, await readYouTubeIds());
   const videos = toVideoData(response);
 
   writeReadme(renderMarkdown(videos));
