@@ -40,10 +40,6 @@ const htmlPlaceholder = "<!-- %%%video-placeholder%%% -->";
 const htmlOutputTemplate = "website.template.html";
 const htmlOutputFile = "docs/index.html";
 
-if (!youtubeKey) {
-  throw Error("YouTube API key has to be passed as argument");
-}
-
 const readYouTubeIds = (): Promise<string[]> =>
   Deno.readTextFile(youtubeDataFile)
     .then((file: string) => file.split("\n"))
@@ -147,14 +143,22 @@ const writeWebsite = async (content: string) => {
   await Deno.writeTextFile(htmlOutputFile, output);
 };
 
-const response = await requestVideoData(await readYouTubeIds());
-const videos = toVideoData(response);
+const main = async () => {
+  if (!youtubeKey) {
+    throw Error("YouTube API key has to be passed as argument");
+  }
 
-writeReadme(renderMarkdown(videos));
-console.log("README updated");
+  const response = await requestVideoData(await readYouTubeIds());
+  const videos = toVideoData(response);
 
-writeWebsite(renderHtml(videos));
-console.log("Website updated");
+  writeReadme(renderMarkdown(videos));
+  console.log("README updated");
 
-writeYouTubeIds(toDataFileContent(videos));
-console.log("YouTube id list updated");
+  writeWebsite(renderHtml(videos));
+  console.log("Website updated");
+
+  writeYouTubeIds(toDataFileContent(videos));
+  console.log("YouTube id list updated");
+};
+
+main();
