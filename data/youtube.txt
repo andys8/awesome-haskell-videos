@@ -8,6 +8,7 @@ E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
 FYTZkE5BZ-0 # Making Music with Haskell From Scratch
 I8LbkfSSR58 # Category Theory 1.1: Motivation and Philosophy
 LEdEOlLlMfM # Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman
+LJLla_ZqYQU # Project Euler Problem 33 in Haskell
 N6sOMGYsvFA # Haskell-1-1
 N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
 NYjk1kaYIgk # Inspection Testing by Joachim Breitner
@@ -31,4 +32,3 @@ qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
 re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
-LJLla_ZqYQU
