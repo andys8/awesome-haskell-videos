@@ -10,7 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
-- [Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020](https://youtu.be/Q3qjTVcU9cg)
+- [TALK Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020](https://youtu.be/Q3qjTVcU9cg)
 - [Write a GHC extension in 30 minutes by Richard Eisenberg](https://youtu.be/bhhE2DxbrJM)
 - [Making Music with Haskell From Scratch](https://youtu.be/FYTZkE5BZ-0)
 - [Project Euler Problem 33 in Haskell](https://youtu.be/LJLla_ZqYQU)
@@ -25,6 +25,7 @@
 - [MuniHac 2019: Making a Haskell IDE](https://youtu.be/cijsaeWNf2E)
 - [Simon Peyton Jones how GHC type inference engine actually works](https://youtu.be/x3evzO8O9e8)
 - [Brave New World: Tales of PureScript and Haskell in Production](https://youtu.be/2SAQNO46V3U)
+- [Do Notation in Haskell](https://youtu.be/4gJ9zsZLv0Y)
 - [Building Terminal User Interfaces with Haskell](https://youtu.be/qbDQdXfcaO8)
 - [GTK+ Programming with Haskell](https://youtu.be/Xfu-Mt4YDWQ)
 - [Inspection Testing by Joachim Breitner](https://youtu.be/NYjk1kaYIgk)

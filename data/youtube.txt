@@ -2,6 +2,7 @@
 0I90MTip-OQ # Sed implementation in Haskell - Episode 1
 2-JFkv9-JOQ # Compose Conference - Robots on Haskell
 2SAQNO46V3U # Brave New World: Tales of PureScript and Haskell in Production
+4gJ9zsZLv0Y # Do Notation in Haskell
 9AllRc64pVE # Adventures in Haskell - Calculator episode 1
 DaU6BAV7Z94 # Explaining the state monad
 E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
@@ -14,7 +15,7 @@ N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
 NYjk1kaYIgk # Inspection Testing by Joachim Breitner
 NzIZzvbplSM # Data61 fp-course - Part #1: syntax, Optional, List
 PA1Fc7DNKtA # Revisiting Combinators by Edward Kmett
-Q3qjTVcU9cg # Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020
+Q3qjTVcU9cg # TALK Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020
 UVek-DEc_pQ # Scripting in Haskell
 Vgu82wiiZ90 # Haskell for Imperative Programmers #1 - Basics
 Xfu-Mt4YDWQ # GTK+ Programming with Haskell
@@ -32,4 +33,3 @@ qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
 re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
-4gJ9zsZLv0Y
