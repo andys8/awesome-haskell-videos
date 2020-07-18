@@ -21,6 +21,7 @@
 - [Haskell for Imperative Programmers #1 - Basics](https://youtu.be/Vgu82wiiZ90)
 - [JSON Parser 100% From Scratch in Haskell (only 111 lines)](https://youtu.be/N9RUqGYuGfw)
 - [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://youtu.be/idU7GdlfP9Q)
+- [Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram](https://youtu.be/y5jZnMImbMY)
 - [MuniHac 2019: The many faces of isOrderedTree](https://youtu.be/xcm_H36v_18)
 - [MuniHac 2019: Making a Haskell IDE](https://youtu.be/cijsaeWNf2E)
 - [Simon Peyton Jones how GHC type inference engine actually works](https://youtu.be/x3evzO8O9e8)
