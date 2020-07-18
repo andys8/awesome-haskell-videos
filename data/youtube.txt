@@ -33,3 +33,4 @@ qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
 re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
+y5jZnMImbMY
