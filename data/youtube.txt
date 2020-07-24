@@ -34,3 +34,4 @@ re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journ
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
+M7NgCq_IaZY
