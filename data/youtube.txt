@@ -10,6 +10,7 @@ FYTZkE5BZ-0 # Making Music with Haskell From Scratch
 I8LbkfSSR58 # Category Theory 1.1: Motivation and Philosophy
 LEdEOlLlMfM # Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman
 LJLla_ZqYQU # Project Euler Problem 33 in Haskell
+M7NgCq_IaZY # HaskellerZ - March 2020 - Juri Chome & Cazim Hysi - Workshop on building a webservice
 N6sOMGYsvFA # Haskell-1-1
 N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
 NYjk1kaYIgk # Inspection Testing by Joachim Breitner
@@ -34,4 +35,3 @@ re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journ
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-M7NgCq_IaZY

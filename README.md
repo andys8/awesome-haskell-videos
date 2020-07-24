@@ -18,6 +18,7 @@
 - [World-Building in Haskell with Tom Harding](https://youtu.be/nkIMTc1wPaI)
 - [Haskell in the City](https://youtu.be/geiTNX7AYfI)
 - [Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman](https://youtu.be/LEdEOlLlMfM)
+- [HaskellerZ - March 2020 - Juri Chome & Cazim Hysi - Workshop on building a webservice](https://youtu.be/M7NgCq_IaZY)
 - [Haskell for Imperative Programmers #1 - Basics](https://youtu.be/Vgu82wiiZ90)
 - [JSON Parser 100% From Scratch in Haskell (only 111 lines)](https://youtu.be/N9RUqGYuGfw)
 - [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://youtu.be/idU7GdlfP9Q)
