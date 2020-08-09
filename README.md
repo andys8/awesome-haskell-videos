@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [Designing a React Hooks style TUI lib from scratch](https://youtu.be/xiBSb0A_3SQ)
 - [TALK Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020](https://youtu.be/Q3qjTVcU9cg)
 - [Write a GHC extension in 30 minutes by Richard Eisenberg](https://youtu.be/bhhE2DxbrJM)
 - [Making Music with Haskell From Scratch](https://youtu.be/FYTZkE5BZ-0)
