@@ -17,6 +17,7 @@
 - [Project Euler Problem 33 in Haskell](https://youtu.be/LJLla_ZqYQU)
 - [Type Inference from Scratch: A Workshop with Christoph Hegemann](https://youtu.be/frM7GhBERAs)
 - [World-Building in Haskell with Tom Harding](https://youtu.be/nkIMTc1wPaI)
+- [HaskellerZ - April 2020 - Niklas Hambüchen - Asynchronous and Parallel Programming in Haskell](https://youtu.be/WUDl7ciaYy8)
 - [Haskell in the City](https://youtu.be/geiTNX7AYfI)
 - [Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman](https://youtu.be/LEdEOlLlMfM)
 - [HaskellerZ - March 2020 - Juri Chome & Cazim Hysi - Workshop on building a webservice](https://youtu.be/M7NgCq_IaZY)
