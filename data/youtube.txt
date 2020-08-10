@@ -8,6 +8,7 @@ DaU6BAV7Z94 # Explaining the state monad
 E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
 FYTZkE5BZ-0 # Making Music with Haskell From Scratch
 I8LbkfSSR58 # Category Theory 1.1: Motivation and Philosophy
+LBiFYbQMAXc # Pawel Szulc - Getting acquainted with Lens
 LEdEOlLlMfM # Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman
 LJLla_ZqYQU # Project Euler Problem 33 in Haskell
 M7NgCq_IaZY # HaskellerZ - March 2020 - Juri Chome & Cazim Hysi - Workshop on building a webservice
@@ -37,4 +38,3 @@ x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-LBiFYbQMAXc # lenses talk
