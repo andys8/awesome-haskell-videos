@@ -42,6 +42,7 @@
 - [Explaining the state monad](https://youtu.be/DaU6BAV7Z94)
 - [Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey](https://youtu.be/re96UgMk6GQ)
 - [Scripting in Haskell](https://youtu.be/UVek-DEc_pQ)
+- [Working Hard to Keep Things Lazy by Raichoo](https://youtu.be/cu6lRZPzjGI)
 - [ZuriHac 2016: Spock - Powerful Elegant Web Applications](https://youtu.be/-b-Oz6y-n_Y)
 - [Category Theory 1.1: Motivation and Philosophy](https://youtu.be/I8LbkfSSR58)
 - [Haskell-1-1](https://youtu.be/N6sOMGYsvFA)

@@ -26,6 +26,7 @@ b9FagOVqxmI # Haskell Amuse-Bouche
 bhhE2DxbrJM # Write a GHC extension in 30 minutes by Richard Eisenberg
 cefnmjtAolY # Lenses, Folds, and Traversals
 cijsaeWNf2E # MuniHac 2019: Making a Haskell IDE
+cu6lRZPzjGI # Working Hard to Keep Things Lazy by Raichoo
 frM7GhBERAs # Type Inference from Scratch: A Workshop with Christoph Hegemann
 fty9QL4aSRc # Vladislav Zavialov - Haskell to Core: Understanding Haskell Features Through Their Desugaring
 geiTNX7AYfI # Haskell in the City
@@ -39,4 +40,3 @@ x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-cu6lRZPzjGI # non strictness talk
