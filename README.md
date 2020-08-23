@@ -58,6 +58,7 @@
 - [awesome-haskell](https://github.com/krispo/awesome-haskell) - Awesome Haskell list.
 - [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Haskell must watch video list.
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Awesome Functional Programming.
+- [typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - A collection of good reads on typed functional programming.
 
 ## Contribute
 
