@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [Practical Property Testing - Tom Sydney Kerckhove](https://youtu.be/IsdfoqL1k_U)
 - [Pawel Szulc - Getting acquainted with Lens](https://youtu.be/LBiFYbQMAXc)
 - [Vladislav Zavialov - Haskell to Core: Understanding Haskell Features Through Their Desugaring](https://youtu.be/fty9QL4aSRc)
 - [Designing a React Hooks style TUI lib from scratch](https://youtu.be/xiBSb0A_3SQ)
