@@ -147,8 +147,18 @@ const writeWebsite = async (content: string) => {
   await Deno.writeTextFile(htmlOutputFile, output);
 };
 
-const response = await requestVideoData(await readYouTubeIds());
+const videoIds = await readYouTubeIds();
+const response = await requestVideoData(videoIds);
+
+if (response.error && response.error.message) {
+  throw Error(response.error.message);
+}
+
 const videos = toVideoData(response);
+
+if (!videos || videos.length === 0) {
+  throw Error("Couldn't retrieve videos");
+}
 
 writeReadme(renderMarkdown(videos));
 console.log("README updated");
