@@ -22,7 +22,7 @@
 
 - To add a video add the youtube id to [`data/youtube.txt`](https://github.com/andys8/awesome-haskell-videos/blob/master/data/youtube.txt)
 - Output can be seen with `deno run --allow-read --allow-net --allow-write generate.ts <youtube-api-key>`
-- Run `npx awesome-lint`
+- Run `npx awesome-lint@0.15.0`
 - CI will update README.md and website automatically running `generate.ts`
 
 ## License
