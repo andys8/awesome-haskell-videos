@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [AoC 2020 — Day 10 — I lost my hair solving this problem in Haskell](https://youtu.be/LjrCckaHjB0)
 - [Practical Property Testing - Tom Sydney Kerckhove](https://youtu.be/IsdfoqL1k_U)
 - [Pawel Szulc - Getting acquainted with Lens](https://youtu.be/LBiFYbQMAXc)
 - [Vladislav Zavialov - Haskell to Core: Understanding Haskell Features Through Their Desugaring](https://youtu.be/fty9QL4aSRc)

@@ -12,6 +12,7 @@ IsdfoqL1k_U # Practical Property Testing - Tom Sydney Kerckhove
 LBiFYbQMAXc # Pawel Szulc - Getting acquainted with Lens
 LEdEOlLlMfM # Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman
 LJLla_ZqYQU # Project Euler Problem 33 in Haskell
+LjrCckaHjB0 # AoC 2020 — Day 10 — I lost my hair solving this problem in Haskell
 M7NgCq_IaZY # HaskellerZ - March 2020 - Juri Chome & Cazim Hysi - Workshop on building a webservice
 N6sOMGYsvFA # Haskell-1-1
 N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
@@ -41,5 +42,4 @@ re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journ
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
-LjrCckaHjB0 # tsoding aoc
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
