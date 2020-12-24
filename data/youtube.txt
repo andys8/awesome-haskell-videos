@@ -4,6 +4,7 @@
 2SAQNO46V3U # Brave New World: Tales of PureScript and Haskell in Production
 4gJ9zsZLv0Y # Do Notation in Haskell
 9AllRc64pVE # Adventures in Haskell - Calculator episode 1
+AJgZJs-f3uk # Haskelling the Advent of Code 2020 - Day 10
 DaU6BAV7Z94 # Explaining the state monad
 E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
 FYTZkE5BZ-0 # Making Music with Haskell From Scratch
@@ -43,4 +44,3 @@ x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-AJgZJs-f3uk # Advent of code
