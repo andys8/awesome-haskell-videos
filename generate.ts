@@ -47,7 +47,9 @@ if (!youtubeKey) {
 const readYouTubeIds = (): Promise<string[]> =>
   Deno.readTextFile(youtubeDataFile)
     .then((file: string) => file.split("\n"))
-    .then((lines: string[]) => lines.map((line: string) => line.split(" ")[0]));
+    .then((lines: string[]) =>
+      lines.map((line) => line.split(" ")[0]).filter((id) => !!id)
+    );
 
 const requestVideoData = async (videoIds: string[] = []) => {
   const idsStr = videoIds.join(",");
@@ -86,7 +88,7 @@ const toVideoData = (resp: YoutubeResponse): Video[] => {
     likes: parseInt(statistics.likeCount, 10),
   });
   const { items = [] } = resp;
-  return items.map(toVideo).sort(comparePublished);
+  return items.map(toVideo);
 };
 
 const renderMarkdown = (videos: Video[] = []) =>
@@ -147,14 +149,25 @@ const writeWebsite = async (content: string) => {
   await Deno.writeTextFile(htmlOutputFile, output);
 };
 
-const videoIds = await readYouTubeIds();
-const response = await requestVideoData(videoIds);
+const chunkArray = <T>(arr: Array<T>, size: number) => {
+  const tempArray = [];
+  for (let index = 0; index < arr.length; index += size) {
+    tempArray.push(arr.slice(index, index + size));
+  }
+  return tempArray;
+};
 
-if (response.error && response.error.message) {
-  throw Error(response.error.message);
-}
+const ids = await readYouTubeIds();
+const idChunks = chunkArray(ids, 50);
+const responses = await Promise.all(idChunks.map(requestVideoData));
 
-const videos = toVideoData(response);
+responses.forEach((resp) => {
+  if (resp.error && resp.error.message) {
+    throw Error(resp.error.message);
+  }
+});
+
+const videos = responses.flatMap(toVideoData).sort(comparePublished);
 
 if (!videos || videos.length === 0) {
   throw Error("Couldn't retrieve videos");
