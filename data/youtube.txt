@@ -5,6 +5,7 @@
 4gJ9zsZLv0Y # Do Notation in Haskell
 9AllRc64pVE # Adventures in Haskell - Calculator episode 1
 AJgZJs-f3uk # Haskelling the Advent of Code 2020 - Day 10
+AZQLkkDXy68 # Production Haskell - Reid Draper
 DaU6BAV7Z94 # Explaining the state monad
 E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
 FYTZkE5BZ-0 # Making Music with Haskell From Scratch
@@ -19,6 +20,7 @@ N6sOMGYsvFA # Haskell-1-1
 N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
 NYjk1kaYIgk # Inspection Testing by Joachim Breitner
 NzIZzvbplSM # Data61 fp-course - Part #1: syntax, Optional, List
+Orm-jIIgVD0 # Your First Web Application with Spock
 PA1Fc7DNKtA # Revisiting Combinators by Edward Kmett
 Q3qjTVcU9cg # TALK Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020
 S3WGPuqfBLg # 2016 - Jasper Van der Jeugt - Haskell: mistakes I made (and how to fix them)
@@ -36,6 +38,8 @@ fty9QL4aSRc # Vladislav Zavialov - Haskell to Core: Understanding Haskell Featur
 geiTNX7AYfI # Haskell in the City
 h_D4P-KRNKs # HackerRank in Haskell -- HaskellRank #01
 idU7GdlfP9Q # Lambda World 2019 - Painless software development with Haskell - Paweł Szulc
+lC5UWG5N8oY # C++Now 2017: Ryan Newton "Haskell taketh away: limiting side effects for parallel programming"
+mlTO510zO78 # Haskell is Not For Production and Other Tales
 nkIMTc1wPaI # World-Building in Haskell with Tom Harding
 pUN3algpvMs # Haskell for JavaScript programmers
 qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
@@ -44,7 +48,3 @@ x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-lC5UWG5N8oY
-AZQLkkDXy68
-mlTO510zO78
-Orm-jIIgVD0
