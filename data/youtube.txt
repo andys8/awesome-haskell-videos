@@ -36,6 +36,7 @@ cu6lRZPzjGI # Working Hard to Keep Things Lazy by Raichoo
 frM7GhBERAs # Type Inference from Scratch: A Workshop with Christoph Hegemann
 fty9QL4aSRc # Vladislav Zavialov - Haskell to Core: Understanding Haskell Features Through Their Desugaring
 geiTNX7AYfI # Haskell in the City
+glog9DZh8G0 # Lecture 1 - Sudoku in Haskell I
 h_D4P-KRNKs # HackerRank in Haskell -- HaskellRank #01
 idU7GdlfP9Q # Lambda World 2019 - Painless software development with Haskell - Paweł Szulc
 lC5UWG5N8oY # C++Now 2017: Ryan Newton "Haskell taketh away: limiting side effects for parallel programming"
@@ -48,4 +49,3 @@ x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-glog9DZh8G0 # haskell course sudoku

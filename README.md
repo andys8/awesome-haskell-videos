@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [Lecture 1 - Sudoku in Haskell I](https://youtu.be/glog9DZh8G0)
 - [AoC 2020 — Day 10 — I lost my hair solving this problem in Haskell](https://youtu.be/LjrCckaHjB0)
 - [Haskelling the Advent of Code 2020 - Day 10](https://youtu.be/AJgZJs-f3uk)
 - [Practical Property Testing - Tom Sydney Kerckhove](https://youtu.be/IsdfoqL1k_U)
