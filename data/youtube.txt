@@ -45,8 +45,8 @@ nkIMTc1wPaI # World-Building in Haskell with Tom Harding
 pUN3algpvMs # Haskell for JavaScript programmers
 qbDQdXfcaO8 # Building Terminal User Interfaces with Haskell
 re96UgMk6GQ # Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey
+sIqZEmnFer8 # BOB 2021 Chris Penner - Higher Kinded Data Types By Example
 x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-sIqZEmnFer8 # penner
