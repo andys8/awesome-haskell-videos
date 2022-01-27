@@ -63,6 +63,8 @@
 - [Adventures in Haskell - Calculator episode 1](https://youtu.be/9AllRc64pVE)
 - [Lenses, Folds, and Traversals](https://youtu.be/cefnmjtAolY)
 - [Haskell Amuse-Bouche](https://youtu.be/b9FagOVqxmI)
+- [What we can do with Terms, Types, and Kinds in Haskell](https://www.youtube.com/watch?v=Nne8Ow7SF7U)
+- [Do we really need OOD and FDD?](https://www.youtube.com/watch?v=KW9U6HMKEgk)
 
 ## Related
 
