@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.0.0
+        uses: actions/checkout@v2
         with:
           ref: master
           fetch-depth: 0
-      - uses: denolib/setup-deno@master
+      - uses: denoland/setup-deno@v1
         with:
-          deno-version: 1.0.0
+          deno-version: v1.x
       - name: Generate website and README
         run: |
           deno --version
