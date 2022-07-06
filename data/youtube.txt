@@ -11,6 +11,7 @@ E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
 FYTZkE5BZ-0 # Making Music with Haskell From Scratch
 I8LbkfSSR58 # Category Theory 1.1: Motivation and Philosophy
 IsdfoqL1k_U # Practical Property Testing - Tom Sydney Kerckhove
+KW9U6HMKEgk # Do we really need OOD and FDD?
 LBiFYbQMAXc # Pawel Szulc - Getting acquainted with Lens
 LEdEOlLlMfM # Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman
 LJLla_ZqYQU # Project Euler Problem 33 in Haskell
@@ -19,6 +20,7 @@ M7NgCq_IaZY # HaskellerZ - March 2020 - Juri Chome & Cazim Hysi - Workshop on bu
 N6sOMGYsvFA # Haskell-1-1
 N9RUqGYuGfw # JSON Parser 100% From Scratch in Haskell (only 111 lines)
 NYjk1kaYIgk # Inspection Testing by Joachim Breitner
+Nne8Ow7SF7U # What we can do with Terms, Types, and Kinds in Haskell
 NzIZzvbplSM # Data61 fp-course - Part #1: syntax, Optional, List
 Orm-jIIgVD0 # Your First Web Application with Spock
 PA1Fc7DNKtA # Revisiting Combinators by Edward Kmett
@@ -51,5 +53,3 @@ x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-Nne8Ow7SF7U
-KW9U6HMKEgk
