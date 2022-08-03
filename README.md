@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [Most Common Mistakes in Haskell – Constantine Ter-Matevosian](https://youtu.be/AIYGy0Rguq8)
 - [What we can do with Terms, Types, and Kinds in Haskell](https://youtu.be/Nne8Ow7SF7U)
 - [Do we really need OOD and FDD?](https://youtu.be/KW9U6HMKEgk)
 - [Veronika Romashkina: Lift Unliftable (and unlift liftable) @Zurihac21](https://youtu.be/wJsXjsCvSPg)
