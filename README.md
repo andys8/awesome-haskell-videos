@@ -14,6 +14,7 @@
 - [Haskell Beginners 2022: Lecture 1](https://youtu.be/6MsQcUprO9o)
 - [What we can do with Terms, Types, and Kinds in Haskell](https://youtu.be/Nne8Ow7SF7U)
 - [Do we really need OOD and FDD?](https://youtu.be/KW9U6HMKEgk)
+- [From World to Environment: Open AI Gym Primer](https://youtu.be/x1PrCCy0btg)
 - [Veronika Romashkina: Lift Unliftable (and unlift liftable) @Zurihac21](https://youtu.be/wJsXjsCvSPg)
 - [BOB 2021 Chris Penner - Higher Kinded Data Types By Example](https://youtu.be/sIqZEmnFer8)
 - [AFP 2 - Sudoku I: First Steps](https://youtu.be/glog9DZh8G0)
