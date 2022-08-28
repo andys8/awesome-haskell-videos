@@ -16,6 +16,7 @@
 - [Do we really need OOD and FDD?](https://youtu.be/KW9U6HMKEgk)
 - [From World to Environment: Open AI Gym Primer](https://youtu.be/x1PrCCy0btg)
 - [Veronika Romashkina: Lift Unliftable (and unlift liftable) @Zurihac21](https://youtu.be/wJsXjsCvSPg)
+- [Haskell Tips: FP Refactoring Recursion with Writer + State](https://youtu.be/zKsZOUB_s6Y)
 - [BOB 2021 Chris Penner - Higher Kinded Data Types By Example](https://youtu.be/sIqZEmnFer8)
 - [AFP 2 - Sudoku I: First Steps](https://youtu.be/glog9DZh8G0)
 - [AoC 2020 — Day 10 — I lost my hair solving this problem in Haskell](https://youtu.be/LjrCckaHjB0)
