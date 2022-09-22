@@ -11,6 +11,7 @@
 
 <!--lint disable awesome-spell-check-->
 - [Most Common Mistakes in Haskell – Constantine Ter-Matevosian](https://youtu.be/AIYGy0Rguq8)
+- [AFP 1 - Course Overview](https://youtu.be/-qhbNGghVfc)
 - [Haskell Beginners 2022: Lecture 1](https://youtu.be/6MsQcUprO9o)
 - [What we can do with Terms, Types, and Kinds in Haskell](https://youtu.be/Nne8Ow7SF7U)
 - [Do we really need OOD and FDD?](https://youtu.be/KW9U6HMKEgk)
