@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [MuniHac 2022 - Friday, October 7 - Joachim Breitner: Getting recursive definitions off their bottoms](https://youtu.be/UsihVM5CxsQ)
 - [Most Common Mistakes in Haskell – Constantine Ter-Matevosian](https://youtu.be/AIYGy0Rguq8)
 - [AFP 1 - Course Overview](https://youtu.be/-qhbNGghVfc)
 - [Haskell Beginners 2022: Lecture 1](https://youtu.be/6MsQcUprO9o)

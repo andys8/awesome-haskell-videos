@@ -30,6 +30,7 @@ PA1Fc7DNKtA # Revisiting Combinators by Edward Kmett
 Q3qjTVcU9cg # TALK Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020
 S3WGPuqfBLg # 2016 - Jasper Van der Jeugt - Haskell: mistakes I made (and how to fix them)
 UVek-DEc_pQ # Scripting in Haskell
+UsihVM5CxsQ # MuniHac 2022 - Friday, October 7 - Joachim Breitner: Getting recursive definitions off their bottoms
 Vgu82wiiZ90 # Haskell for Imperative Programmers #1 - Basics
 WUDl7ciaYy8 # HaskellerZ - April 2020 - Niklas Hambüchen - Asynchronous and Parallel Programming in Haskell
 Xfu-Mt4YDWQ # GTK+ Programming with Haskell
@@ -58,4 +59,3 @@ xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
 zKsZOUB_s6Y # Haskell Tips: FP Refactoring Recursion with Writer + State
-UsihVM5CxsQ # Munihac Talk
