@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [MuniHac 2022 - Sunday, October 9 - Nicolas Wu: Modular Programming with Effects](https://youtu.be/wk3Qj15WPpk)
 - [MuniHac 2022 - Friday, October 7 - Joachim Breitner: Getting recursive definitions off their bottoms](https://youtu.be/UsihVM5CxsQ)
 - [Most Common Mistakes in Haskell – Constantine Ter-Matevosian](https://youtu.be/AIYGy0Rguq8)
 - [AFP 1 - Course Overview](https://youtu.be/-qhbNGghVfc)
