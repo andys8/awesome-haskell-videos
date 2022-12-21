@@ -29,6 +29,7 @@
 - [Pawel Szulc - Getting acquainted with Lens](https://youtu.be/LBiFYbQMAXc)
 - [Vladislav Zavialov - Haskell to Core: Understanding Haskell Features Through Their Desugaring](https://youtu.be/fty9QL4aSRc)
 - [Designing a React Hooks style TUI lib from scratch](https://youtu.be/xiBSb0A_3SQ)
+- [Alexis King -  “Effects for Less” @ ZuriHac 2020](https://youtu.be/0jI-AlWEwYI)
 - [TALK Gabriel Gonzalez - “A bare-bones Twitter clone implemented with Haskell + Nix” @ ZuriHac 2020](https://youtu.be/Q3qjTVcU9cg)
 - [Write a GHC extension in 30 minutes by Richard Eisenberg](https://youtu.be/bhhE2DxbrJM)
 - [Making Music with Haskell From Scratch](https://youtu.be/FYTZkE5BZ-0)
