@@ -13,6 +13,7 @@ AZQLkkDXy68 # Production Haskell - Reid Draper
 ColY2dknvJs # Chris Penner - Alternative by example - A typeclass for parsing, concurrency, logic programming
 DaU6BAV7Z94 # Explaining the state monad
 E8I19uA-wGY # Functional programming design patterns by Scott Wlaschin
+EoeKXsoKY_c # Super-heroes: Monoid, Foldable and Traversable (Paweł Szulc)
 FYTZkE5BZ-0 # Making Music with Haskell From Scratch
 I8LbkfSSR58 # Category Theory 1.1: Motivation and Philosophy
 IsdfoqL1k_U # Practical Property Testing - Tom Sydney Kerckhove
@@ -62,4 +63,3 @@ xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
 zKsZOUB_s6Y # Haskell Tips: FP Refactoring Recursion with Writer + State
-EoeKXsoKY_c # Super heroes
