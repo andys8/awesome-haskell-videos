@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [I tried learning a programming language, but it turns out it's just math.](https://youtu.be/UhM_H3lFk_Q)
 - [Super-heroes: Monoid, Foldable and Traversable (Paweł Szulc)](https://youtu.be/EoeKXsoKY_c)
 - [Chris Penner - Alternative by example - A typeclass for parsing, concurrency, logic programming](https://youtu.be/ColY2dknvJs)
 - [MuniHac 2022 - Sunday, October 9 - Nicolas Wu: Modular Programming with Effects](https://youtu.be/wk3Qj15WPpk)
