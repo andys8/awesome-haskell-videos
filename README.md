@@ -16,6 +16,7 @@
 - [MuniHac 2022 - Sunday, October 9 - Nicolas Wu: Modular Programming with Effects](https://youtu.be/wk3Qj15WPpk)
 - [MuniHac 2022 - Friday, October 7 - Joachim Breitner: Getting recursive definitions off their bottoms](https://youtu.be/UsihVM5CxsQ)
 - [Most Common Mistakes in Haskell – Constantine Ter-Matevosian](https://youtu.be/AIYGy0Rguq8)
+- [Haskell Tutorial: Calling REST APIs (HTTP requests using "wreq")](https://youtu.be/q-fKS6yV9Us)
 - [AFP 1 - Course Overview](https://youtu.be/-qhbNGghVfc)
 - [Haskell Beginners 2022: Lecture 1](https://youtu.be/6MsQcUprO9o)
 - [What we can do with Terms, Types, and Kinds in Haskell](https://youtu.be/Nne8Ow7SF7U)
