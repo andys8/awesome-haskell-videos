@@ -17,6 +17,7 @@ EoeKXsoKY_c # Super-heroes: Monoid, Foldable and Traversable (Paweł Szulc)
 FYTZkE5BZ-0 # Making Music with Haskell From Scratch
 I8LbkfSSR58 # Category Theory 1.1: Motivation and Philosophy
 IsdfoqL1k_U # Practical Property Testing - Tom Sydney Kerckhove
+J_C37aFcgXk # Debunking Haskell Myths and Stereotypes
 KW9U6HMKEgk # Do we really need OOD and FDD?
 LBiFYbQMAXc # Pawel Szulc - Getting acquainted with Lens
 LEdEOlLlMfM # Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman
@@ -40,7 +41,7 @@ WUDl7ciaYy8 # HaskellerZ - April 2020 - Niklas Hambüchen - Asynchronous and Par
 Xfu-Mt4YDWQ # GTK+ Programming with Haskell
 b9FagOVqxmI # Haskell Amuse-Bouche
 bhhE2DxbrJM # Write a GHC extension in 30 minutes by Richard Eisenberg
-c7FncTzvpUQ # There is No “Tooling Issue” in Haskell
+c7FncTzvpUQ # Debunking Haskell Myth: “Tooling Issue”
 cefnmjtAolY # Lenses, Folds, and Traversals
 cijsaeWNf2E # MuniHac 2019: Making a Haskell IDE
 cu6lRZPzjGI # Working Hard to Keep Things Lazy by Raichoo
@@ -65,5 +66,4 @@ x3evzO8O9e8 # Simon Peyton Jones how GHC type inference engine actually works
 xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
-zKsZOUB_s6Y # Haskell Tips: FP Refactoring Recursion with Writer + State 
-J_C37aFcgXk # stereotypes
+zKsZOUB_s6Y # Haskell Tips: FP Refactoring Recursion with Writer + State
