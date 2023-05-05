@@ -10,6 +10,7 @@
 ## Videos
 
 <!--lint disable awesome-spell-check-->
+- [LHBG 0. About the book. Simple "Hello, World"](https://youtu.be/ZL0qExCnO8g)
 - [Debunking Haskell Myths and Stereotypes](https://youtu.be/J_C37aFcgXk)
 - [Debunking Haskell Myth: “Tooling Issue”](https://youtu.be/c7FncTzvpUQ)
 - [I tried learning a programming language, but it turns out it's just math.](https://youtu.be/UhM_H3lFk_Q)

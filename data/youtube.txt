@@ -39,6 +39,7 @@ UsihVM5CxsQ # MuniHac 2022 - Friday, October 7 - Joachim Breitner: Getting recur
 Vgu82wiiZ90 # Haskell for Imperative Programmers #1 - Basics
 WUDl7ciaYy8 # HaskellerZ - April 2020 - Niklas Hambüchen - Asynchronous and Parallel Programming in Haskell
 Xfu-Mt4YDWQ # GTK+ Programming with Haskell
+ZL0qExCnO8g # LHBG 0. About the book. Simple "Hello, World"
 b9FagOVqxmI # Haskell Amuse-Bouche
 bhhE2DxbrJM # Write a GHC extension in 30 minutes by Richard Eisenberg
 c7FncTzvpUQ # Debunking Haskell Myth: “Tooling Issue”
@@ -67,4 +68,3 @@ xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
 zKsZOUB_s6Y # Haskell Tips: FP Refactoring Recursion with Writer + State
-ZL0qExCnO8g # blog generator
