@@ -68,3 +68,4 @@ xcm_H36v_18 # MuniHac 2019: The many faces of isOrderedTree
 xiBSb0A_3SQ # Designing a React Hooks style TUI lib from scratch
 y5jZnMImbMY # Lambda World 2019 - A Series of Unfortunate Effects - Robert M. Avram
 zKsZOUB_s6Y # Haskell Tips: FP Refactoring Recursion with Writer + State
+6MsQcUprO9o # Beginner Course
