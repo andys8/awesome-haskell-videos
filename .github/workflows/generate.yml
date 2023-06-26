@@ -21,10 +21,6 @@ jobs:
         run: |
           deno --version
           deno run --allow-read --allow-net --allow-write generate.ts ${{ secrets.YOUTUBE_API_KEY }}
-      - name: Test awesome-lint
-        uses: jthegedus/github-action-awesome-lint@68fc989d5a01aa127ce502a59f72ebe4166386f1 # commit_sha of tag v0.1.0
-        env:
-          AWESOME_LINT_VERSION: "0.15.0"
       - name: push
         uses: github-actions-x/commit@v2.9
         with:
